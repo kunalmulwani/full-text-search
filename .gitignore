@@ -1,4 +1,5 @@
 # ignoring vim swp file
 *.swp
 *.swo
+enwiki-latest-abstract1.xml
 
