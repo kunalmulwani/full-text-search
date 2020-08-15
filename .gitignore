@@ -1,0 +1,4 @@
+# ignoring vim swp file
+*.swp
+*.swo
+
